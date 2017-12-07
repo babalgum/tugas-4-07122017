@@ -8,7 +8,7 @@ int main(){
 	int nilai;
 	char kelamin [20];
 	bool status= true;
-	printf ("========Selamat Datang di Program Saya========== \n");
+	printf ("Selamat Datang di Program Saya \n");
 	printf ("\n");
 	
 	printf ("Masukan Nama: ");
